@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background-image:url("https://asset.risonare.com/tomamu/v/unkai-terrace/images/unkai_terrace_landscape.jpg");
   padding: 20px;
 }
 confmenu
@@ -201,6 +201,7 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image:url("https://i.ytimg.com/vi/duc4sHMJqj8/maxresdefault.jpg"); 
   margin-bottom: 120px;
 }
 
