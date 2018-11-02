@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="1" tnodes="0" max_tnode_index="0" clone_windows="0"/>
+<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
 	<global_window_position top="50" left="50" height="500" width="700"/>
 	<global_log_window_position top="0" left="0" height="0" width="0"/>
@@ -18,7 +18,6 @@
 <v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
 <v t="leo.20180827201621.4" a="E"><vh>html</vh>
 <v t="leo.20180827201621.5"><vh>head</vh></v>
-<v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
@@ -40,7 +39,7 @@
 </v>
 </v>
 </v>
-</v>
+<v t="leo.20180827201621.6"><vh>body</vh></v>
 </v>
 </v>
 </v>
@@ -126,10 +125,10 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
 
-### 虎科大機械設計工程系
+### 虎科大機械設計工程系 18號
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [林旻隆](https://mdecp2018.github.io/site-s40723118/blog/index.html)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
