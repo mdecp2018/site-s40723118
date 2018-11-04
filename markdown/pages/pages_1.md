@@ -8,8 +8,6 @@ Title: About
 
 課程網誌: <a href="https://mdecourse.github.io/2018fall/blog">https://mdecourse.github.io/2018fall/blog</a>
 
-自己的網站:<a href="https://mdecp2018.github.io/site-s40723118/content/index.html"></a>
-
 
 
 
