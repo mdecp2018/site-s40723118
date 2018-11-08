@@ -39,6 +39,12 @@
 <v t="leo.20181108213859.1"><vh>week2</vh>
 <v t="leo.20181108213936.1"><vh>newHeadline</vh></v>
 </v>
+<v t="leo.20181108215838.1"><vh>week3</vh>
+<v t="leo.20181108215902.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181108221705.1" a="E"><vh>week4</vh>
+<v t="leo.20181108221708.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -375,7 +381,9 @@ make.start()
 </t>
 <t tx="leo.20181108213024.1">week1
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ta7YJB5lkQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ta7YJB5lkQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181108213859.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -386,6 +394,29 @@ make.start()
 </t>
 <t tx="leo.20181108213936.1">week2
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/V2sId2H8_LQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/V2sId2H8_LQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181108215838.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108215902.1">week3
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jVx6KKsYgg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181108221705.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181108221708.1">week4
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fmDFHiMnpHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
