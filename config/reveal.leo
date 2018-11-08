@@ -128,7 +128,7 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系 18號
 
 &lt;small&gt;
-Created by [林旻隆](https://mdecp2018.github.io/site-s40723118/blog/index.html)
+Created by [林旻隆](https://mdecp2018.github.io/site-s40723118/content/index.html)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
