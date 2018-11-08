@@ -20,14 +20,24 @@
 <v t="leo.20180827201621.5"><vh>head</vh></v>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20181108100458.1" a="E"><vh>快捷鍵</vh>
-<v t="leo.20181108100458.3"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181108211724.1"><vh>newHeadline</vh></v>
 </v>
+<v t="leo.20181108211444.1"><vh>666</vh>
+<v t="leo.20181108211444.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181108211657.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181108211704.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181108213013.1"><vh>week1</vh>
+<v t="leo.20181108213024.1"><vh>week1</vh></v>
+</v>
+<v t="leo.20181108213859.1"><vh>week2</vh>
+<v t="leo.20181108213936.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -230,9 +240,9 @@ make.start()
 </t>
 <t tx="leo.20180827201621.19">## 使用 iframe 導入影片
 
-### 導入影片 template
+### 666
 
-&lt;iframe src="&lt;div style="position:relative;height:0;padding-bottom:53.43%"&gt;&lt;iframe src="https://www.youtube.com/embed/fmDFHiMnpHQ?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="674" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -328,7 +338,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108100458.1">&lt;section data-markdown&gt;
+<t tx="leo.20181108211444.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -337,15 +347,45 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108100458.3">#安安您好
+<t tx="leo.20181108211444.2">安安您好
 
-* 早安您好
-* 秋天來臨
-* 天氣忽冷忽熱
-* 早晚溫差大
-* 注意身體
-* 小心感冒
+早安您好
+
+秋天來臨
+
+天氣忽冷忽熱
+
+早晚溫差大
+
+注意身體
+
+小心感冒
 
 </t>
+<t tx="leo.20181108211657.1"></t>
+<t tx="leo.20181108211704.1"></t>
+<t tx="leo.20181108211724.1"></t>
+<t tx="leo.20181108213013.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108213024.1">week1
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ta7YJB5lkQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181108213859.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108213936.1">week2
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/V2sId2H8_LQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
