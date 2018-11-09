@@ -30,13 +30,13 @@
 <v t="leo.20181108211444.1"><vh>666</vh>
 <v t="leo.20181108211444.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181108213013.1"><vh>week1</vh>
+<v t="leo.20181108213013.1" a="E"><vh>week1</vh>
 <v t="leo.20181108213024.1"><vh>week1</vh></v>
 </v>
-<v t="leo.20181108213859.1"><vh>week2</vh>
+<v t="leo.20181108213859.1" a="E"><vh>week2</vh>
 <v t="leo.20181108213936.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20181108215838.1"><vh>week3</vh>
+<v t="leo.20181108215838.1" a="E"><vh>week3</vh>
 <v t="leo.20181108215902.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20181108221705.1" a="E"><vh>week4</vh>
@@ -47,6 +47,12 @@
 </v>
 <v t="leo.20181109111509.1" a="E"><vh>week6</vh>
 <v t="leo.20181109111511.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181109114433.1" a="E"><vh>week7</vh>
+<v t="leo.20181109114458.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181109114429.1" a="E"><vh>week8</vh>
+<v t="leo.20181109114501.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -443,5 +449,25 @@ make.start()
 <t tx="leo.20181109111511.1">week6
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pXw0dyxgWrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109114429.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109114433.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109114458.1">week7
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cEHpwOBUx8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109114501.1">week8
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iNEyCRZziQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
