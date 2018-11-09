@@ -27,13 +27,10 @@
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 <v t="leo.20181108211724.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20181108211444.1"><vh>666</vh>
+<v t="leo.20181108211444.1" a="E"><vh>666</vh>
 <v t="leo.20181108211444.2"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20181108211657.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20181108211704.1"><vh>newHeadline</vh></v>
 </v>
-</v>
-<v t="leo.20181108213013.1"><vh>week1</vh>
+<v t="leo.20181108213013.1" a="E"><vh>week1</vh>
 <v t="leo.20181108213024.1"><vh>week1</vh></v>
 </v>
 <v t="leo.20181108213859.1"><vh>week2</vh>
@@ -52,7 +49,7 @@
 <v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -365,11 +362,7 @@ make.start()
 
 注意身體
 
-小心感冒
-
-</t>
-<t tx="leo.20181108211657.1"></t>
-<t tx="leo.20181108211704.1"></t>
+小心感冒</t>
 <t tx="leo.20181108211724.1"></t>
 <t tx="leo.20181108213013.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -407,7 +400,9 @@ make.start()
 </t>
 <t tx="leo.20181108215902.1">week3
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jVx6KKsYgg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jVx6KKsYgg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181108221705.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -417,6 +412,8 @@ make.start()
 </t>
 <t tx="leo.20181108221708.1">week4
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fmDFHiMnpHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fmDFHiMnpHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
