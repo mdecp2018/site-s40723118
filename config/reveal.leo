@@ -18,41 +18,14 @@
 <v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
 <v t="leo.20180827201621.4" a="E"><vh>html</vh>
 <v t="leo.20180827201621.5"><vh>head</vh></v>
+<v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20181108211724.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20181108211444.1"><vh>666</vh>
-<v t="leo.20181108211444.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20181108213013.1" a="E"><vh>week1</vh>
-<v t="leo.20181108213024.1"><vh>week1</vh></v>
-</v>
-<v t="leo.20181108213859.1" a="E"><vh>week2</vh>
-<v t="leo.20181108213936.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20181108215838.1" a="E"><vh>week3</vh>
-<v t="leo.20181108215902.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20181108221705.1" a="E"><vh>week4</vh>
-<v t="leo.20181108221708.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20181109111458.1" a="E"><vh>week5</vh>
-<v t="leo.20181109111503.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20181109111509.1" a="E"><vh>week6</vh>
-<v t="leo.20181109111511.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20181109114433.1" a="E"><vh>week7</vh>
-<v t="leo.20181109114458.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20181109114429.1" a="E"><vh>week8</vh>
-<v t="leo.20181109114501.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -61,13 +34,13 @@
 <v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18"><vh>導入影片</vh>
+<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
 </v>
-<v t="leo.20180827201621.6"><vh>body</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -153,10 +126,10 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
 
-### 虎科大機械設計工程系 18號
+### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [林旻隆](https://mdecp2018.github.io/site-s40723118/content/index.html)
+Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -255,7 +228,7 @@ make.start()
 </t>
 <t tx="leo.20180827201621.19">## 使用 iframe 導入影片
 
-### 666
+### 導入影片 template
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
@@ -273,7 +246,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-機設一甲 18號
+2018 Fall 分組網際簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -353,121 +326,5 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108211444.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108211444.2">安安您好
-
-早安您好
-
-秋天來臨
-
-天氣忽冷忽熱
-
-早晚溫差大
-
-注意身體
-
-小心感冒
-
-</t>
-<t tx="leo.20181108211724.1"></t>
-<t tx="leo.20181108213013.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181108213024.1">week1
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ta7YJB5lkQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20181108213859.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181108213936.1">week2
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/V2sId2H8_LQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20181108215838.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181108215902.1">week3
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jVx6KKsYgg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20181108221705.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181108221708.1">week4
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fmDFHiMnpHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20181109111458.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181109111503.1">week5
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ssBxbYHQCIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20181109111509.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181109111511.1">week6
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pXw0dyxgWrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20181109114429.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181109114433.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181109114458.1">week7
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cEHpwOBUx8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20181109114501.1">week8
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iNEyCRZziQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
